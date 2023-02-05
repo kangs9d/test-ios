@@ -14,6 +14,8 @@
 		F6AE15BF298EA22F0037A883 /* test_iosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AE15BE298EA22F0037A883 /* test_iosTests.swift */; };
 		F6AE15C9298EA22F0037A883 /* test_iosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AE15C8298EA22F0037A883 /* test_iosUITests.swift */; };
 		F6AE15CB298EA22F0037A883 /* test_iosUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AE15CA298EA22F0037A883 /* test_iosUITestsLaunchTests.swift */; };
+		F6AE15D8298EC8E70037A883 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AE15D7298EC8E70037A883 /* DetailView.swift */; };
+		F6AE15DC298F9FE50037A883 /* TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AE15DB298F9FE50037A883 /* TableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		F6AE15C4298EA22F0037A883 /* test_iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test_iosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6AE15C8298EA22F0037A883 /* test_iosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test_iosUITests.swift; sourceTree = "<group>"; };
 		F6AE15CA298EA22F0037A883 /* test_iosUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test_iosUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F6AE15D7298EC8E70037A883 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		F6AE15DB298F9FE50037A883 /* TableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				F6AE15AF298EA22E0037A883 /* ContentView.swift */,
 				F6AE15B1298EA22F0037A883 /* Assets.xcassets */,
 				F6AE15B3298EA22F0037A883 /* Preview Content */,
+				F6AE15D7298EC8E70037A883 /* DetailView.swift */,
+				F6AE15DB298F9FE50037A883 /* TableView.swift */,
 			);
 			path = test_ios;
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F6AE15B0298EA22E0037A883 /* ContentView.swift in Sources */,
+				F6AE15DC298F9FE50037A883 /* TableView.swift in Sources */,
+				F6AE15D8298EC8E70037A883 /* DetailView.swift in Sources */,
 				F6AE15AE298EA22E0037A883 /* test_iosApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
