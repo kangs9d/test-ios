@@ -1,4 +1,4 @@
 # test-ios
-it's test app for preparing test ios app.
+it's test app for preparing testing ios app.
 
 (WIP)
